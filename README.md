@@ -7,8 +7,7 @@ Helper ligero para **Monika After Story (MAS)** que facilita el uso de pronombre
 ## 📦 Instalación
 
 1. Descarga la versión más reciente desde [Releases](../../releases).
-2. Descomprime el zip `mas_pronombres_es` dentro del directorio del juego:
-   `MAS/`
+2. Descomprime el zip `mas_pronombres_es` dentro del directorio del juego
 
 ## 💡 ¿Cómo funciona?
 
